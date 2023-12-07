@@ -38,7 +38,7 @@ $ cd ISS Tracker
 1. Open index.html in your preferred web browser.
 
 # How_it_Works
-The application fetches real-time ISS position data and updates the map every second. The ISS marker is displayed on the map, providing a visual representation of its current location.
+The application fetches real-time ISS position data and updates the map every second. The ISS image is displayed on the map, providing a visual representation of its current location.
 
 # Usage
 * Upon opening the application in a web browser, you'll see a map with the current position of the ISS marked by an icon.
