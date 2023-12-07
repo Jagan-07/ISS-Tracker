@@ -6,7 +6,7 @@ A web application built with p5.js and OpenLayers to track the real-time positio
 - [Overview](#overview)
 - [Features](#features)
 - [Setup](#setup)
-- [How it Works](#How it Works)
+- [How it Works](#How\it\Works)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
