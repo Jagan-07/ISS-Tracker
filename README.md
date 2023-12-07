@@ -6,10 +6,10 @@ A web application built with p5.js and OpenLayers to track the real-time positio
 - [Overview](#overview)
 - [Features](#features)
 - [Setup](#setup)
-- [How it Works](#How\it\Works)
+- [How it Works](#How_it_Works)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
+- [Contributions](#contributions)
 - [License](#license)
 
 ## Overview
@@ -36,7 +36,7 @@ $ cd ISS Tracker
 
 1. Open index.html in your preferred web browser.
 
-# How it Works
+# How_it_Works
 The application fetches real-time ISS position data and updates the map every second. The ISS marker is displayed on the map, providing a visual representation of its current location.
 
 # Usage
