@@ -27,6 +27,13 @@ This project uses p5.js for canvas rendering and OpenLayers to create an interac
 
 ```bash
 # clone the repo
-$ 
+$ https://github.com/Jagan-07/ISS-Tracker.git
+
 # change the working directory to ISS-Tracker
 $ cd ISS Tracker
+```
+
+1. Open index.html in your preferred web browser.
+
+# Usage
+
