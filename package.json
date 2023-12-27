@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "name": "iss-tracker",
+  "description": "A web application built with p5.js and OpenLayers to track the real-time position of the International Space Station (ISS) on an interactive map.",
+  "version": "1.0.0",
+  "main": "sketch.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -p 8000"
+  },
+  "keywords": [],
+  "author": "Jagan",
+  "license": "MIT"
+}
