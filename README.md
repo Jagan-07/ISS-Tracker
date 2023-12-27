@@ -33,6 +33,9 @@ $ https://github.com/Jagan-07/ISS-Tracker.git
 
 # change the working directory to ISS-Tracker
 $ cd ISS Tracker
+
+# Run npm command
+$ npm start
 ```
 
 1. Open index.html in your preferred web browser.
